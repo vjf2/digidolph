@@ -1,0 +1,37 @@
+R version 3.3.3 (2017-03-06)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows >= 8 x64 (build 9200)
+
+locale:
+[1] LC_COLLATE=English_United States.1252 
+[2] LC_CTYPE=English_United States.1252   
+[3] LC_MONETARY=English_United States.1252
+[4] LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+other attached packages:
+ [1] rgeos_0.3-22        gdata_2.17.0       
+ [3] PBSmapping_2.69.76  raster_2.5-8       
+ [5] coda_0.19-1         Digiroo2_0.6       
+ [7] spdep_0.6-11        Matrix_1.2-8       
+ [9] spatstat_1.50-0     rpart_4.1-10       
+[11] nlme_3.1-131        rgdal_1.2-5        
+[13] maptools_0.9-2      adehabitatHR_0.4.14
+[15] adehabitatLT_0.3.21 CircStats_0.2-4    
+[17] boot_1.3-18         MASS_7.3-45        
+[19] adehabitatMA_0.3.11 ade4_1.7-6         
+[21] deldir_0.1-12       sp_1.2-4           
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.10         tensor_1.5          
+ [3] gmodels_2.16.2       splines_3.3.3       
+ [5] spatstat.utils_1.4-1 lattice_0.20-34     
+ [7] tools_3.3.3          grid_3.3.3          
+ [9] mgcv_1.8-17          gtools_3.5.0        
+[11] abind_1.4-5          goftest_1.0-4       
+[13] polyclip_1.6-1       LearnBayes_2.15     
+[15] expm_0.999-1         foreign_0.8-67  
