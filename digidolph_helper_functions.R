@@ -96,6 +96,8 @@ one_sim<-function(d=d,buff_days=buff_days, udsgdf=udsgdf,
                   schedule=schedule, 
                   gprox=gprox){
   
+  each_days_assoc<-list()
+  
   for (i in 1:d){
     bound<-buff_days[i,]
     areakm<-area(bound)/1000000
