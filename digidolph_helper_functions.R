@@ -2,7 +2,7 @@
 #Vivienne Foroughirad
 #vjf2@duke.edu
 #Created August 8th, 2016
-#Modified December 8, 2016 
+#Modified September 15, 2017 
 
 
 #Creates unique observation IDs for Digiroo2::fAssoctable output
