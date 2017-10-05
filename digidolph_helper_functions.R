@@ -69,7 +69,6 @@ hwi_filtered<-function(sightings=sightings, group_variable=group_variable, dates
         X<-length(unique(sample[,dates]))
         if (X>0){
           
-          X<-length(unique(all_ego[,dates][all_ego[,group_variable] %in% set]))
           #Ego without alter
           Ya<-length(setdiff(all_ego[,dates], all_alter[,dates]))
           #Alter without ego
